@@ -13,6 +13,7 @@
 | Project | What it shows | Stack |
 |---|---|---|
 | [**steam-sales-prediction**](https://github.com/Tuanyatuanya/steam-sales-prediction) | 115K-game sales model with a 14-step preprocessing pipeline. I led the **permutation hypothesis tests** for a target with skewness ≈ 70. | Python · scikit-learn · XGBoost · SciPy |
+| [**product-analytics-methods**](https://github.com/Tuanyatuanya/product-analytics-methods) | Experiment & product analytics toolkit: A/B test readout, **Difference-in-Differences** with event-study checks, 15 SQL data-quality rules, KPI dictionary. *(public & simulated data)* | Python · SQL (DuckDB) · statsmodels |
 | [**ds-salary-classification**](https://github.com/Tuanyatuanya/ds-salary-classification) | What drives a high data-science salary? 151K jobs, 6 classifiers, PCA and K-means, plus an honest look at the feature ceiling. | Python · scikit-learn |
 | [**linkedin-applicant-volume**](https://github.com/Tuanyatuanya/linkedin-applicant-volume) | Which job-posting features attract more applicants? 124K LinkedIn postings and a comparison of 6 classifiers × 8 validation schemes. | Python · scikit-learn |
 | [**education-finance-naep**](https://github.com/Tuanyatuanya/education-finance-naep) | State education finance and NAEP scores (564 state-years): diagnostics-driven regression shows that **funding composition matters more than funding level**. | R · lm · robust SEs |
